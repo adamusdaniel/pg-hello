@@ -23,7 +23,7 @@ function deviceInfo() {
 
 function autorInfo() {
 
-	info =  'Daniel Adamus';
+	info =  'O BO$HE KLINOŁE$$$$$$';
 
 	navigator.notification.alert(info);
 	
