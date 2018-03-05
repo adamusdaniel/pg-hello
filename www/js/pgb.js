@@ -20,3 +20,11 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function autorInfo() {
+
+	info =  'Daniel Adamus';
+
+	navigator.notification.alert(info);
+	
+}
